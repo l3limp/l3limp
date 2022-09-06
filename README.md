@@ -2,10 +2,9 @@
 
 ### Hi there 👋
 
-- ⚡ I'm currently pursuing an electronics degree from BITS Pilani
-- 🏀 Love playing football, tennis and swimming
-- 👨‍💻 Passionate app developer whose favourite tech stack is Flutter
-- 💻 I am exploring software development
+- ⚡ I'm currently pursuing a CS degree from BITS Pilani
+- 🏀 Love playing basketball, football and badminton
+- 👨‍💻 Passionate app developer with proficiency in Flutter
 
 
 
