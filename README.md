@@ -9,10 +9,10 @@
 
 
   <summary>📊 GitHub Stats</summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aribantbansal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=l3limp&show_icons=true&count_private=true&locale=en&layout=compact&theme=prussian" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="vardaan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=l3limp&show_icons=true&count_private=true&locale=en&layout=compact&theme=prussian" /></a>
 
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="l3limp's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverick-wolf&langs_count=10&layout=compact&theme=prussian" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="l3limp's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3limp&langs_count=10&layout=compact&theme=prussian" /></a>
   <summary>⚡Activity</summary>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="activity" src="https://github-readme-streak-stats.herokuapp.com/?user=l3limp&theme=red" /></a>
 <br />
