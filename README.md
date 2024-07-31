@@ -29,5 +29,3 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=l3limp&theme=react-dark)
